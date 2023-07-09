@@ -1,7 +1,7 @@
 ---
 title: "trackr - a new app"
 summary: "trackr is a new app for professional organization"
-categories: ["Post","Blog",]
+categories: ["Categories",,]
 tags: ["post"]
 #externalUrl: ""
 #showSummary: true
