@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://super-seahorse-0f94a4.netlify.app/sitemap.xml
